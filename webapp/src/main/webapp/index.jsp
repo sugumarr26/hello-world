@@ -1,2 +1,2 @@
 <h1> Hello, Welcome to DevOps Training !!!</h1>
-<h2>All The Best!! Awesome!!!</h2>
+<h2>Awesome!!!</h2>
