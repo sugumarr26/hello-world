@@ -1,1 +1,1 @@
-<h1> Hello, Welcome to DevOps Trainings!!!</h1>
+<h1> Hello, Welcome to DevOps </h1>
