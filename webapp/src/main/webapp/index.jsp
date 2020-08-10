@@ -1,1 +1,1 @@
-<h1> Hello, Welcome to DevOps Stage </h1>
+<h1> Hello, Welcome to Stage </h1>
